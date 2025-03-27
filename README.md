@@ -50,8 +50,8 @@ Don't forget to enable mods in the SIMS 4 Menu after installing mods with this t
 1.  Ensure you have Python 3 installed on your Windows system.
 2.  Download or clone this repository:
     ```bash
-    git clone https://github.com/your_username/your_repository_name.git
-    cd your_repository_name
+    git clone https://github.com/1angstrom/SIMS-4-DLC-Save-and-Mod-Manager.git
+    cd SIMS-4-DLC-Save-and-Mod-Manager
     ```
     Or download the ZIP file from GitHub and extract it.
 3.  **Important:** Download the `dlc_mapping.json` file and place it in the **same folder** as the Python script.
